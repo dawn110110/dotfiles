@@ -1,3 +1,4 @@
+## 把vim部分稍作修改直接作为我的配置文件
 ## Files
 .vim
     directory of file type configurations and plugins
